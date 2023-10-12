@@ -1,0 +1,16 @@
+.categories-wrapper {
+  /* width: 100%; */
+  height: 228px;
+  border: 1.5px solid var(--black);
+}
+
+@media screen and (min-width: 768px) {
+  .categories-wrapper {
+    /* height: 474px; */
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .categories-wrapper {
+  }
+}

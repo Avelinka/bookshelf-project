@@ -1,0 +1,16 @@
+.fonds-wrapper {
+  /* width: 100%; */
+  height: 460px;
+  border: 1.5px solid var(--black);
+}
+
+@media screen and (min-width: 768px) {
+  .fonds-wrapper {
+    height: 474px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .fonds-wrapper {
+  }
+}
